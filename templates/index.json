@@ -338,6 +338,30 @@
     "featured_product_byQYDH": {
       "type": "featured-product",
       "blocks": {
+        "liquid_qqfmgj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .klyne-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 22px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"klyne-offre--flush\">\nAfeitadora KLYNE®\n</p>"
+          }
+        },
+        "liquid_LBWEmj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .custom-reviews {\n    display: flex;\n    align-items: center;\n    font-size: 13px;\n    margin-top: 12px;\n    cursor: pointer;\n  }\n\n  .custom-reviews .stars {\n    margin-right: 6px;\n    width: 85px;\n    height: auto;\n  }\n\n  .custom-reviews .underline {\n    text-decoration: underline;\n  }\n</style>\n\n<div\n  class=\"custom-reviews\"\n  onclick=\"document.getElementById('shopify-section-template--25154766012802__avis_klyne_iU6d84').scrollIntoView({ behavior: 'smooth' });\"\n>\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\"\n    alt=\"4.5 étoiles\"\n    class=\"stars\"\n  />\n  <span>\n    <strong>Excelente</strong>\n    4,7/5 – <span class=\"underline\">1.832 reseñas</span>\n  </span>\n</div>"
+          }
+        },
+        "liquid_yUmptF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\"><strong>4 en stock</strong>, enviado en 24 horas</div>\n</div>\n            </div></div>"
+          }
+        },
+        "text_mxYqhd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "price_9WWLgQ": {
           "type": "price",
           "settings": {
@@ -361,6 +385,10 @@
         }
       },
       "block_order": [
+        "liquid_qqfmgj",
+        "liquid_LBWEmj",
+        "liquid_yUmptF",
+        "text_mxYqhd",
         "price_9WWLgQ",
         "buy_buttons_LgJNTP",
         "pickup_availability_wfXmVT"
