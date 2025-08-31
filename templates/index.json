@@ -468,8 +468,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Pagos seguros",
+            "content": "<p>Tarjetas de crédito y débito: Visa, MasterCard, American Express, Discover</p><p>Carteras digitales y pago exprés: PayPal, Apple Pay, Google Pay, Amazon Pay, Shop Pay</p><h3>Seguridad y fiabilidad</h3><p>Todas las transacciones están protegidas con cifrado SSL de 256 bits.<br/><br/>Cada compra se somete a verificaciones adicionales para prevenir fraudes.</p><h3>📩 ¿Preguntas?</h3><p>Nuestro servicio de atención al cliente está disponible 24/7.<br/><br/>Contáctanos en <a><strong>contacto@klyne-es.com</strong></a>.</p>",
             "page": ""
           }
         },
@@ -478,8 +478,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Garantía de 30 días – Satisfecha o reembolsada",
+            "content": "<p>¡Queremos que te enamores de tu compra KLYNE! 💖</p><p>Si no quedas completamente satisfecha con tu pedido, contáctanos dentro de los 30 días posteriores a la entrega: estaremos encantados de evaluar tu caso y encontrar juntas la mejor solución.</p><p>📩 Puedes escribirnos en cualquier momento a <a><strong>contacto@klyne-es.com</strong></a> — ¡siempre estamos aquí para ti!</p>",
             "page": ""
           }
         }
