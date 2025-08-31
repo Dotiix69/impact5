@@ -88,6 +88,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_bPc4Y7": {
+          "type": "text",
+          "settings": {
+            "title": "¿Necesitas ayuda?",
+            "content": "<p>Contáctanos a través de nuestro formulario en la página <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\"><strong>Contacto</strong></a> o por correo electrónico a <a><strong>contacto@klyne-es.com</strong></a>.</p><p><strong>Horario:</strong> De lunes a sábado de 9h a 13h y de 14h a 20h / Domingo de 10h a 12h</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -98,6 +106,7 @@
         }
       },
       "block_order": [
+        "text_bPc4Y7",
         "links"
       ],
       "settings": {
