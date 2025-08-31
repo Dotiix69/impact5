@@ -133,12 +133,215 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "custom_liquid_4nYCd4": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"trustpilot-clean\">\n  <h2>Han aceptado compartir su experiencia contigo</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excelente</span>\n    <strong class=\"rating-score\">4,7 / 5</strong>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"5 étoiles\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>basado en <strong>+1800</strong> reseñas</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\nmargin-top: -1.5rem;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n\n.rating-score {\n  font-weight: bold;\n}\n\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_GTR7fG": {
+      "type": "multi-column",
+      "blocks": {
+        "item_mqDpbU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "María G.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Para las que se lo preguntan, ¡no duele! Con una sola pasada sentí que recuperaba una piel más suave que nunca. Adiós rojeces, ningún vello encarnado y una suavidad que dura. Estoy encantada.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_phbyf3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "Lucía M.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Llevo años con queratosis pilar y mis piernas siempre estaban llenas de rojeces después de depilarme. Con Klyne noté la diferencia desde la primera vez. Mi piel por fin está lisa y suave, sin irritación. Es la primera vez que un aparato funciona de verdad para mí.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jEhmwM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "Carmen R.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Sufro de SOP y durante mucho tiempo luché con los vellos en la barbilla y el cuello. El láser no me ayudó, al contrario, ¡me salían más! Estaba desesperada, hasta que descubrí Klyne. En 1 a 2 meses, mis vellos casi desaparecieron. Solo hago un repaso cada 1 o 2 semanas. Ya no necesito depilarme cada semana, sin dolor. Klyne es suave, eficaz y me ha cambiado la vida. Gracias 💕\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iKi8fM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "Ana P.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Nunca enseñaba esta parte de mi cuerpo, estaba llena de granitos y vellos bajo la piel. Es la primera vez que consigo un resultado tan limpio, sin escozor ni quemazón. He recuperado un poco de confianza, y solo por eso, gracias.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ipaKdP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Sofía R.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Siempre he tenido la piel muy sensible en esta zona, entre los vellos encarnados y las marcas rojas… Ahora está suave, lisa y sin ninguna reacción. Lo recomiendo al 1000%.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JQFYz6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "column_size": "3",
+            "title": "Laura G.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Klyne deja la piel lisa, sin los típicos granitos del afeitado. Lo uso desde hace unos meses y estoy realmente satisfecha. Al principio era un poco escéptica (lo vi en Facebook), pero no me arrepiento en absoluto de mi compra.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aqgEw7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7.png",
+            "column_size": "3",
+            "title": "Marta S.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Lo que me encanta es que solo paso una vez y queda perfecto. Antes tenía que repasar varias veces con una maquinilla desechable y me dejaba rojeces horribles. Ahora es rápido y la piel se mantiene limpia.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nV7GR7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8.png",
+            "column_size": "3",
+            "title": "Patricia R.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Siempre tenía irritaciones y me picaba muchísimo después de depilarme. Con Klyne eso ya casi no me pasa, un gran descubrimiento.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_33Rk4p": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/9.png",
+            "column_size": "3",
+            "title": "Elena G.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Ya no tengo que pensar en afeitarme todos los días. Hago un retoque rápido cuando tengo tiempo, y ahora afeitarme se ha vuelto algo agradable.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8QxqaN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/10.png",
+            "column_size": "3",
+            "title": "Cristina M.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Siempre he tenido vellos muy visibles en la barbilla y el cuello, era un auténtico suplicio en el día a día. Incluso al afeitarme salían puntitos negros o volvía a crecer al día siguiente. Desde que uso la recortadora 2 en 1 de Klyne, es otro mundo. La piel está suave, los puntos negros han desaparecido y el crecimiento se ha ralentizado muchísimo. Sinceramente, me siento renovada y por fin me atrevo a salir sin maquillaje para tapar.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CMBfjr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/11.png",
+            "column_size": "3",
+            "title": "Andrea L.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"La cera era un infierno… siempre salía con la piel en llamas. Con esta afeitadora de Klyne es todo lo contrario: rápido, cómodo y eficaz. Y el resultado dura mucho más de lo que pensaba, lo recomiendo sin dudar.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DhwVJz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/12.png",
+            "column_size": "3",
+            "title": "Raquel G.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Solo quería una afeitadora eficaz, ¡pero me encontré con mucho más! No suelo comprar por internet, pero sinceramente Klyne me ha sorprendido. Suavidad inmediata, y mi piel sigue lisa varios días. ¡Aprobado!\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_mqDpbU",
+        "item_phbyf3",
+        "item_jEhmwM",
+        "item_iKi8fM",
+        "item_ipaKdP",
+        "item_JQFYz6",
+        "item_aqgEw7",
+        "item_nV7GR7",
+        "item_33Rk4p",
+        "item_8QxqaN",
+        "item_CMBfjr",
+        "item_DhwVJz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_Qeerxx",
     "logo_list_9LBqed",
     "custom_liquid_ayLRmi",
-    "image_with_text_overlay_Y6Gi3a"
+    "image_with_text_overlay_Y6Gi3a",
+    "custom_liquid_4nYCd4",
+    "multi_column_GTR7fG"
   ]
 }
