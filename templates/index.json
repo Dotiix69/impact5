@@ -438,12 +438,32 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Consejos de uso",
+            "content": "<ol><li><strong>Exfoliación antes del afeitado (24 h antes)</strong><br/><br/>Pasa el guante exfoliante con movimientos circulares para eliminar las células muertas y liberar los vellos encarnados.<br/><br/>Seca la piel o déjala ligeramente húmeda según tu comodidad.<br/></li><li><strong>Orden de uso de los cabezales</strong><br/><br/>Peine largo: recorta primero los vellos más largos.<br/><br/>Cabezal recortadora: unifica la longitud en toda la zona.<br/><br/>Cabezal de precisión: haz el acabado manteniendo la piel ligeramente tensa.<br/></li><li><strong>Técnica de afeitado</strong><br/><br/>Inclina el aparato unos 30° respecto a la piel.<br/><br/>Aplica una presión ligera y deja que la cuchilla se deslice sin forzar.<br/><br/>Pasa primero en la dirección del vello y, si es necesario, a contrapelo en una o dos pasadas como máximo.<br/></li><li><strong>Cuidado después del afeitado</strong><br/><br/>Seca la piel dando toques suaves.<br/><br/>Aplica un gel o una crema calmante sin alcohol para aliviar las rojeces.<br/></li><li><strong>Exfoliación después del afeitado (48 h después)</strong><br/><br/>Espera al menos dos días para que la barrera cutánea se recupere.<br/><br/>Haz una exfoliación suave para prevenir los vellos encarnados y mantener la piel limpia y sin irritación.</li></ol>",
             "page": ""
           }
         },
         "collapsible_text_a7Uh4M": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Guante exfoliante de regalo, piel suave y purificada",
+            "content": "<p>Incluido con la afeitadora, nuestro guante exfoliante prepara la piel de forma ideal. Al eliminar las células muertas y las impurezas, optimiza la eficacia del afeitado, previene los vellos encarnados y deja la piel suave y lisa desde el primer uso.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_GQxVBd": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Envío y devoluciones",
+            "content": "<h4><strong>Envío estándar</strong></h4><p><strong>Plazos de entrega:</strong> 5 a 7 días laborables.</p><p><strong>Datos importantes:</strong></p><ul><li><strong>Procesamiento de pedidos:</strong> 24 horas para la verificación, el control de calidad y el embalaje.<br/></li><li><strong>Observaciones:</strong> Los plazos indicados son aproximados y pueden variar según condiciones logísticas o situaciones excepcionales.<br/></li></ul><p><strong>Seguimiento del pedido:</strong></p><ul><li><strong>Disponibilidad:</strong> seguimiento accesible directamente en nuestro sitio.<br/></li><li><strong>¿Necesitas tu número de seguimiento?</strong> Escríbenos a <a><strong>contacto@klyne-es.com</strong></a> o a través de nuestro <a href=\"/pages/contact\" title=\"Contact\">formulario de contacto</a> y te lo facilitaremos rápidamente.<br/></li></ul><p><strong>Más información:</strong> Consulta nuestra <strong>Política de Envíos</strong>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_wNnGWw": {
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
@@ -453,7 +473,7 @@
             "page": ""
           }
         },
-        "collapsible_text_GQxVBd": {
+        "collapsible_text_iCgyKk": {
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
@@ -481,7 +501,9 @@
         "collapsible_text_GxUprm",
         "collapsible_text_pbjXN6",
         "collapsible_text_a7Uh4M",
-        "collapsible_text_GQxVBd"
+        "collapsible_text_GQxVBd",
+        "collapsible_text_wNnGWw",
+        "collapsible_text_iCgyKk"
       ],
       "custom_css": [
         ".text-on-sale {color: #00b67b;}"
@@ -493,7 +515,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": false,
