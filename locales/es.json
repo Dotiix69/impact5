@@ -440,5 +440,10 @@
         "other": "Ha recibido {{ count }} reseñas."
       }
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
