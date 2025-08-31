@@ -533,10 +533,13 @@
         "item_88hdRk": {
           "type": "item",
           "settings": {
-            "row_heading": "NATIVE SHOPIFY PAGE BUILDER",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Indoloro y ultra suave",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
             "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
             "four_column": ""
           }
         },
