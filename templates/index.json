@@ -9,6 +9,42 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_Qeerxx": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_GGWgF9": {
+          "type": "heading",
+          "settings": {
+            "text": "¿Vellos encarnados, irritaciones, rojeces? ¡Olvídate de ellos para siempre!",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_YcRyR9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>La única afeitadora que te hace querer depilarte.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GGWgF9",
+        "richtext_YcRyR9"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/incroyable.png",
+        "mobile_image": "shopify://shop_images/incroyable.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 25
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -63,6 +99,7 @@
     }
   },
   "order": [
+    "image_with_text_overlay_Qeerxx",
     "faq"
   ]
 }
