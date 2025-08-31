@@ -732,6 +732,107 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "faq_jcWMwH": {
+      "type": "faq",
+      "blocks": {
+        "item_wwM6fJ": {
+          "type": "item",
+          "settings": {
+            "title": "¿Klyne es adecuado para pieles sensibles?",
+            "content": "<p>Sí, Klyne está especialmente diseñado para ser suave con la piel, incluso en las zonas más sensibles como las ingles o las axilas. Gracias a su doble cabezal recortadora/afeitadora, ofrece una experiencia sin irritaciones ni rojeces.</p>"
+          }
+        },
+        "item_AcAVRL": {
+          "type": "item",
+          "settings": {
+            "title": "¿Es doloroso de usar?",
+            "content": "<p>En absoluto. Klyne está diseñado para cortar el vello sin tirar ni raspar. Tendrás una sensación de confort obteniendo al mismo tiempo una piel lisa y sin cortes.</p>"
+          }
+        },
+        "item_4haB6Q": {
+          "type": "item",
+          "settings": {
+            "title": "¿Es apto para todas las zonas del cuerpo?",
+            "content": "<p>Sí, Klyne es versátil y adecuado para las piernas, las axilas, la zona íntima e incluso el rostro.</p>"
+          }
+        },
+        "item_VAbHFj": {
+          "type": "item",
+          "settings": {
+            "title": "¿Hay riesgo de cortes o vellos encarnados?",
+            "content": "<p>Gracias a su diseño innovador, Klyne elimina el vello sin contacto directo con la piel, minimizando el riesgo de cortes o vellos encarnados.</p>"
+          }
+        },
+        "item_dpmQHD": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo usar Klyne en la ducha?",
+            "content": "<p>¡Por supuesto! Klyne es totalmente impermeable e ideal para usar bajo el agua. Úsalo en la ducha para una rutina rápida y práctica.</p>"
+          }
+        },
+        "item_PAL3a9": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cómo limpiar Klyne después de usarlo?",
+            "content": "<p>Después de cada uso, enjuaga los cabezales con agua. Se incluye un pequeño cepillo para una limpieza más precisa.</p>"
+          }
+        },
+        "item_tbHUmA": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo llevar Klyne en mis viajes?",
+            "content": "<p>¡Claro! Klyne cabe fácilmente en tu maleta… y prometido, no ocupará todo el espacio en tu neceser.</p>"
+          }
+        },
+        "item_mJUqU7": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cuánto tarda en cargarse Klyne?",
+            "content": "<p>La carga completa tarda entre 30 y 45 minutos gracias a su tecnología de carga rápida.</p>"
+          }
+        },
+        "item_YddfwC": {
+          "type": "item",
+          "settings": {
+            "title": "¿Qué pasa si no estoy satisfecha?",
+            "content": "<p>Ofrecemos una garantía de \"Satisfecha o reembolsada\" durante 30 días. Si el producto no cumple tus expectativas, contacta con nuestro servicio de atención al cliente.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_wwM6fJ",
+        "item_AcAVRL",
+        "item_4haB6Q",
+        "item_VAbHFj",
+        "item_dpmQHD",
+        "item_PAL3a9",
+        "item_tbHUmA",
+        "item_mJUqU7",
+        "item_YddfwC"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Las preguntas más frecuentes</h3>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "#fec6c5",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -742,6 +843,7 @@
     "custom_liquid_4nYCd4",
     "multi_column_GTR7fG",
     "featured_product_byQYDH",
-    "comparaison_mdXCVT"
+    "comparaison_mdXCVT",
+    "faq_jcWMwH"
   ]
 }
