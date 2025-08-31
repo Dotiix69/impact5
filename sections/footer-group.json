@@ -18,52 +18,52 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1a1a1a",
+            "title": "Envío gratuito",
+            "content": "<p>Disponible solo en España</p>"
           }
         },
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "icon": "picto-operator",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1a1a1a",
+            "title": "Atención al cliente 7/7",
+            "content": "<p>Para cualquier consulta, escríbenos a través de nuestro <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">formulario de contacto</a> o por correo electrónico a <a><strong>contacto@klyne-es.com</strong></a></p>"
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "icon": "picto-validation",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1a1a1a",
+            "title": "Garantía de 30 días",
+            "content": "<p>Satisfecha o reembolsada</p>"
           }
         },
         "payment": {
           "type": "item",
           "settings": {
             "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1a1a1a",
+            "title": "Pagos seguros",
+            "content": "<p>Protegido con cifrado SSL y 3D Secure</p>"
           }
         }
       },
@@ -77,7 +77,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h6",
+        "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
