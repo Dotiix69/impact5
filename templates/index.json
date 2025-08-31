@@ -546,30 +546,62 @@
         "item_cqhDqG": {
           "type": "item",
           "settings": {
-            "row_heading": "NO MONTHLY SUBSCRIPTION FEES",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Uso en cualquier lugar / momento",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
             "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
             "four_column": ""
           }
         },
         "item_wy4Utb": {
           "type": "item",
           "settings": {
-            "row_heading": "200+ HIGHLY CUSTOMISABLE SECTIONS",
-            "first_column": "Yes",
-            "second_column": "No",
-            "third_column": "",
+            "row_heading": "Precio",
+            "first_column": "39,99€ una vez",
+            "second_column": "Desde 30 € por sesión",
+            "third_column": "Desde 90 € por sesión",
             "four_column": ""
           }
         },
         "item_4jzAF6": {
           "type": "item",
           "settings": {
-            "row_heading": "THE SLEEKEST LOOKING DESIGNS",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Resultados inmediatos",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/check-rose-klyne.svg",
             "third_column": "",
+            "third_column_image": "shopify://shop_images/check-rose-klyne.svg",
+            "four_column": ""
+          }
+        },
+        "item_KbDaAz": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Apto para pieles sensibles",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
+            "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
+            "four_column": ""
+          }
+        },
+        "item_JHzFrP": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Garantía de satisfacción o reembolso",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
+            "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
             "four_column": ""
           }
         }
@@ -578,7 +610,9 @@
         "item_88hdRk",
         "item_cqhDqG",
         "item_wy4Utb",
-        "item_4jzAF6"
+        "item_4jzAF6",
+        "item_KbDaAz",
+        "item_JHzFrP"
       ],
       "name": "SS - Comparison Table #4",
       "settings": {
