@@ -933,58 +933,292 @@
             "image": "shopify://shop_images/16.webp"
           }
         },
-        "testimonial_NkpXPx": {
+        "testimonial_bwDJKh": {
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "'Just 3 times isn't enough; it intensifies the more you use it, with a warming effect that's irresistible.'",
-            "author": "Sarah M.",
-            "verified": "VERIFIED PURCHASE"
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
           }
         },
-        "testimonial_EHFm4k": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 4.5,
-            "text": "'Patience pays off with these Tabs. It takes a moment, but the enduring radiance is undeniable.'",
-            "author": "Chloe K.",
-            "verified": "VERIFIED PURCHASE"
-          }
-        },
-        "testimonial_VfX3hm": {
+        "testimonial_Q8UCYM": {
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "'Never knew my skin could feel so alive. It's the perfect prep for a night out with someone special.'",
-            "author": "Hans B.",
-            "verified": "VERIFIED PURCHASE"
+            "text": "Nunca había hecho una compra tan buena, era una oferta con descuento ¡pero igual merece la pena!",
+            "author": "Lucía V.",
+            "verified": "COMPRADORA VERIFICADA"
           }
         },
-        "testimonial_7wLdqU": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 4.5,
-            "text": "'Plan a night in with this one! Once it activates, you're in for hours of silky-smooth skin.'",
-            "author": "Linus S.",
-            "verified": "VERIFIED PURCHASE"
-          }
-        },
-        "testimonial_hPWXH4": {
+        "testimonial_6RiWwR": {
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "'Had my doubts, but no regrets now! Every application turns my skin's luminosity up a notch.'",
-            "author": "William I.",
-            "verified": "VERIFIED PURCHASE"
+            "text": "¡Estoy impresionada! Esta afeitadora ha cambiado por completo mi manera de depilarme.",
+            "author": "Amina L.",
+            "verified": "COMPRADORA VERIFICADA"
           }
         },
-        "testimonial_RrUK7i": {
+        "testimonial_NyFryV": {
           "type": "testimonial",
           "settings": {
-            "rating": 4.5,
-            "text": "'The scent and packaging won me over. Solo use? Absolutely enjoyable and quite the treat.'",
-            "author": "Stephanie A.",
-            "verified": "VERIFIED PURCHASE"
+            "rating": 5,
+            "text": "Mi vello es grueso y duro, pero consigue eliminarlo todo sin dolor.",
+            "author": "Sara B.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_EBbQrN": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "El cargador USB me salva, lo necesito también para el iPhone jaja, pero sobre todo la afeitadora es buenísima, ya no sufro después de usarla.",
+            "author": "Laura S.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_KqhaGW": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Se ha convertido en un imprescindible de mi rutina de belleza, sobre todo por la mañana.",
+            "author": "Claudia K.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_zPVtdU": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4,
+            "text": "Pensaba que la doble cabeza era un simple truco, ¡pero es súper eficaz!",
+            "author": "Nuria M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_HrgR9E": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Lo recomiendo al 100%, ¡chicas no lo dudéis!",
+            "author": "Inés K.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_XGCWc3": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4,
+            "text": "Mis piernas están tan suaves… ¿qué clase de magia es esta?",
+            "author": "Yasmina A.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_gUW7rD": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Incluso sin espuma, el paso es muy cómodo, sin rojeces.",
+            "author": "Carmen T.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_TEeQqE": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Muy práctico, gracias también por el pequeño cepillo de limpieza, es útil.",
+            "author": "Sofía D.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_GfwGUi": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Es otro nivel comparado con las cuchillas del súper, tengo la piel súper suave, ¡me encanta!",
+            "author": "Estefanía A.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_3zrVWX": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Fue un regalo para mí misma y creo que ha valido la pena.",
+            "author": "Claudia P.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_GHxbWe": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Mis piernas están suaves durante varios días, es mejor que todo lo que había probado antes.",
+            "author": "Mariam Y.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_bxgcpT": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Es un ahorro de tiempo increíble, puedo depilarme en dos movimientos.",
+            "author": "Assia C.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_GUNTqK": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Primera vez que me depilo la zona íntima sin dolor. Solo quiero decir: ¡POR FIN!",
+            "author": "Noelia M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_FNJ3bD": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Entrega rápida, el afeitado se ha vuelto agradable, lo recomiendo.",
+            "author": "Alejandra G.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_BUcYAL": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Genial, nada que decir, contenta con mi compra.",
+            "author": "Nia K.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_HfJRkU": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_kQ7mrH": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_nqEH3K": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_hjgkCt": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_jEegMe": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_VT7jiH": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_pPNFkY": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_wjmdhT": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_Gc6BUd": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_974wJF": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_r3U8aL": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_6a6RTU": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_hbjWfq": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
+          }
+        },
+        "testimonial_8YqNAq": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Tengo la piel sensible y por fin una afeitadora que no me irrita, ¡incluso me gusta afeitarme! La recomiendo.",
+            "author": "María M.",
+            "verified": "COMPRADORA VERIFICADA"
           }
         }
       },
@@ -1005,12 +1239,38 @@
         "image_D3Ry6T",
         "image_kMj9Yd",
         "image_MpK7md",
-        "testimonial_NkpXPx",
-        "testimonial_EHFm4k",
-        "testimonial_VfX3hm",
-        "testimonial_7wLdqU",
-        "testimonial_hPWXH4",
-        "testimonial_RrUK7i"
+        "testimonial_bwDJKh",
+        "testimonial_Q8UCYM",
+        "testimonial_6RiWwR",
+        "testimonial_NyFryV",
+        "testimonial_EBbQrN",
+        "testimonial_KqhaGW",
+        "testimonial_zPVtdU",
+        "testimonial_HrgR9E",
+        "testimonial_XGCWc3",
+        "testimonial_gUW7rD",
+        "testimonial_TEeQqE",
+        "testimonial_GfwGUi",
+        "testimonial_3zrVWX",
+        "testimonial_GHxbWe",
+        "testimonial_bxgcpT",
+        "testimonial_GUNTqK",
+        "testimonial_FNJ3bD",
+        "testimonial_BUcYAL",
+        "testimonial_HfJRkU",
+        "testimonial_kQ7mrH",
+        "testimonial_nqEH3K",
+        "testimonial_hjgkCt",
+        "testimonial_jEegMe",
+        "testimonial_VT7jiH",
+        "testimonial_pPNFkY",
+        "testimonial_wjmdhT",
+        "testimonial_Gc6BUd",
+        "testimonial_974wJF",
+        "testimonial_r3U8aL",
+        "testimonial_6a6RTU",
+        "testimonial_hbjWfq",
+        "testimonial_8YqNAq"
       ],
       "name": "SS - Testimonials #7",
       "settings": {
