@@ -923,7 +923,7 @@
       "name": "SS - Testimonials #7",
       "settings": {
         "hide_images": true,
-        "heading": "<h2> Customers are thrilled with their 'glow-up bedtime' routine.</h2>",
+        "heading": "<h3><strong>Valorado con 4,7/5 sobre 1.832 reseñas</strong></h3>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 36,
@@ -971,7 +971,7 @@
         "testimonial_verified_size": 10,
         "testimonial_verified_size_mobile": 10,
         "testimonial_verified_height": 150,
-        "button": "SHOP NOW",
+        "button": "COMPRAR KLYNE",
         "button_url": "",
         "button_use_icon": true,
         "button_custom": false,
