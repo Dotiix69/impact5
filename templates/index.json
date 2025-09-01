@@ -176,6 +176,32 @@
             "link_style": "link"
           }
         },
+        "item_ipaKdP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Sofía R.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Siempre he tenido la piel muy sensible en esta zona, entre los vellos encarnados y las marcas rojas… Ahora está suave, lisa y sin ninguna reacción. Lo recomiendo al 1000%.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aqgEw7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7.png",
+            "column_size": "3",
+            "title": "Marta S.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Lo que me encanta es que solo paso una vez y queda perfecto. Antes tenía que repasar varias veces con una maquinilla desechable y me dejaba rojeces horribles. Ahora es rápido y la piel se mantiene limpia.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_jEhmwM": {
           "type": "item",
           "settings": {
@@ -202,14 +228,14 @@
             "link_style": "link"
           }
         },
-        "item_ipaKdP": {
+        "item_nV7GR7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
+            "image": "shopify://shop_images/8.png",
             "column_size": "3",
-            "title": "Sofía R.",
+            "title": "Patricia R.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Siempre he tenido la piel muy sensible en esta zona, entre los vellos encarnados y las marcas rojas… Ahora está suave, lisa y sin ninguna reacción. Lo recomiendo al 1000%.\"</em></p>",
+            "content": "<p><em>\"Siempre tenía irritaciones y me picaba muchísimo después de depilarme. Con Klyne eso ya casi no me pasa, un gran descubrimiento.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -223,32 +249,6 @@
             "title": "Laura G.",
             "heading_tag": "h4",
             "content": "<p><em>\"Klyne deja la piel lisa, sin los típicos granitos del afeitado. Lo uso desde hace unos meses y estoy realmente satisfecha. Al principio era un poco escéptica (lo vi en Facebook), pero no me arrepiento en absoluto de mi compra.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_aqgEw7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/7.png",
-            "column_size": "3",
-            "title": "Marta S.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Lo que me encanta es que solo paso una vez y queda perfecto. Antes tenía que repasar varias veces con una maquinilla desechable y me dejaba rojeces horribles. Ahora es rápido y la piel se mantiene limpia.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_nV7GR7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/8.png",
-            "column_size": "3",
-            "title": "Patricia R.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Siempre tenía irritaciones y me picaba muchísimo después de depilarme. Con Klyne eso ya casi no me pasa, un gran descubrimiento.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -310,12 +310,12 @@
       "block_order": [
         "item_mqDpbU",
         "item_phbyf3",
+        "item_ipaKdP",
+        "item_aqgEw7",
         "item_jEhmwM",
         "item_iKi8fM",
-        "item_ipaKdP",
-        "item_JQFYz6",
-        "item_aqgEw7",
         "item_nV7GR7",
+        "item_JQFYz6",
         "item_33Rk4p",
         "item_8QxqaN",
         "item_CMBfjr",
